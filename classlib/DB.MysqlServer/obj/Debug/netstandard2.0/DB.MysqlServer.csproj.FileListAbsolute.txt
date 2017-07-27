@@ -1,0 +1,10 @@
+C:\workarea\netcore\classlib\DB.MysqlServer\bin\Debug\netstandard2.0\DB.MysqlServer.deps.json
+C:\workarea\netcore\classlib\DB.MysqlServer\bin\Debug\netstandard2.0\DB.MysqlServer.dll
+C:\workarea\netcore\classlib\DB.MysqlServer\bin\Debug\netstandard2.0\DB.MysqlServer.pdb
+C:\workarea\netcore\classlib\DB.MysqlServer\obj\Debug\netstandard2.0\DB.MysqlServer.csproj.CoreCompileInputs.cache
+C:\workarea\netcore\classlib\DB.MysqlServer\obj\Debug\netstandard2.0\DB.MysqlServer.AssemblyInfoInputs.cache
+C:\workarea\netcore\classlib\DB.MysqlServer\obj\Debug\netstandard2.0\DB.MysqlServer.AssemblyInfo.cs
+C:\workarea\netcore\classlib\DB.MysqlServer\obj\Debug\netstandard2.0\DB.MysqlServer.dll
+C:\workarea\netcore\classlib\DB.MysqlServer\obj\Debug\netstandard2.0\DB.MysqlServer.pdb
+C:\workarea\netcore\classlib\DB.MysqlServer\bin\Debug\netstandard2.0\DB.Interface.dll
+C:\workarea\netcore\classlib\DB.MysqlServer\bin\Debug\netstandard2.0\DB.Interface.pdb

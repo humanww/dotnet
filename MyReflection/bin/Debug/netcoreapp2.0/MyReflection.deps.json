@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "MyReflection/1.0.0": {
+        "dependencies": {
+          "DB.MySqlServer": "1.0.0"
+        },
+        "runtime": {
+          "MyReflection.dll": {}
+        }
+      },
+      "DB.Interface/1.0.0": {
+        "runtime": {
+          "DB.Interface.dll": {}
+        }
+      },
+      "DB.MySqlServer/1.0.0": {
+        "dependencies": {
+          "DB.Interface": "1.0.0"
+        },
+        "runtime": {
+          "DB.MySqlServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyReflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DB.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DB.MySqlServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

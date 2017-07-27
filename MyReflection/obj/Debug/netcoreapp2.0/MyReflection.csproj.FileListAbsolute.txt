@@ -1,0 +1,14 @@
+C:\workarea\netcore\MyReflection\obj\Debug\netcoreapp2.0\MyReflection.csproj.CoreCompileInputs.cache
+C:\workarea\netcore\MyReflection\obj\Debug\netcoreapp2.0\MyReflection.AssemblyInfoInputs.cache
+C:\workarea\netcore\MyReflection\obj\Debug\netcoreapp2.0\MyReflection.AssemblyInfo.cs
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\MyReflection.deps.json
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\MyReflection.runtimeconfig.json
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\MyReflection.runtimeconfig.dev.json
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\MyReflection.dll
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\MyReflection.pdb
+C:\workarea\netcore\MyReflection\obj\Debug\netcoreapp2.0\MyReflection.dll
+C:\workarea\netcore\MyReflection\obj\Debug\netcoreapp2.0\MyReflection.pdb
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\DB.MysqlServer.dll
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\DB.MysqlServer.pdb
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\DB.Interface.dll
+C:\workarea\netcore\MyReflection\bin\Debug\netcoreapp2.0\DB.Interface.pdb

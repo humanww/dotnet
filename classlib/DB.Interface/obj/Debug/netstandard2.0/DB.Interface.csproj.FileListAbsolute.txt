@@ -1,0 +1,8 @@
+C:\workarea\netcore\classlib\DB.Interface\bin\Debug\netstandard2.0\DB.Interface.deps.json
+C:\workarea\netcore\classlib\DB.Interface\bin\Debug\netstandard2.0\DB.Interface.dll
+C:\workarea\netcore\classlib\DB.Interface\bin\Debug\netstandard2.0\DB.Interface.pdb
+C:\workarea\netcore\classlib\DB.Interface\obj\Debug\netstandard2.0\DB.Interface.csproj.CoreCompileInputs.cache
+C:\workarea\netcore\classlib\DB.Interface\obj\Debug\netstandard2.0\DB.Interface.AssemblyInfoInputs.cache
+C:\workarea\netcore\classlib\DB.Interface\obj\Debug\netstandard2.0\DB.Interface.AssemblyInfo.cs
+C:\workarea\netcore\classlib\DB.Interface\obj\Debug\netstandard2.0\DB.Interface.dll
+C:\workarea\netcore\classlib\DB.Interface\obj\Debug\netstandard2.0\DB.Interface.pdb

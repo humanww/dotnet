@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+ <!--添加项目引用-->
+  <ItemGroup>
+    <ProjectReference Include="..\classlib\DB.MySqlServer\DB.MySqlServer.csproj" />
+  </ItemGroup>
+
+</Project>
